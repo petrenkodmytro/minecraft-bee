@@ -172,6 +172,11 @@
     transform: translateZ(-160px) rotateY(90deg);
     position: absolute;
   }
+
+  .name {
+    font-size: 30px;
+    color: rgb(141, 119, 9);
+  }
   .cube {
     width: 400px;
     height: 400px;
